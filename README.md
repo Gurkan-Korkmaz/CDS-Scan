@@ -1,4 +1,5 @@
-Little disclaimers what to expect of these scripts and the dataset and how to use them. 
+Little disclaimers what to expect from these scripts and the dataset and how to use them. 
 
-- Header explanations can be found in Stop-Codon-Frequencies/RawData/ 
-Click on the Header Cells to find comments that explain the Headers in more detail.  
+- All Raw Data files of the datasets are deposited in two file formats: Microsoft Excel Worksheet (.xlsx) & OpenDocument Spreadsheet (.ods).
+
+- Header explanations can be found in Stop-Codon-Frequencies/RawData/ click on the Header cells to find comments that explain the Headers in more detail.
