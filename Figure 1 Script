@@ -42,3 +42,5 @@ plt.scatter(GC,TAA, label = 'TAA')
 plt.legend(loc=2) #Various locations available
 plt.savefig('VirusCDSCognateStopsFigure1.png', dpi=1000) #Saves the scatter plot with a resolution of 1000 DPI
 plt.show() #Otherwise it wont show the actual plot after running the script succesfully 
+
+#Publication Link will be added once available
